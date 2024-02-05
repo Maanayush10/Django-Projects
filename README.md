@@ -1,2 +1,2 @@
 # Django-Projects
-Making different project in Django. 
+Making different projects in Django. 
